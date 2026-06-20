@@ -4,7 +4,7 @@ function Projects() {
     return <div>
 
        <div className="m-10 flex">
-            <img className="h-96 w-1/2" src="/projects/JobTracker2.0.png" alt="Job-Tracker2.0 Project"/>
+            <img className="h-96 w-1/2" src="/projects/JobTracker2.0.PNG" alt="Job-Tracker2.0 Project"/>
                <div className="w-1/2 ml-5 space-y-4">
              <p className="font-bold text-3xl">JobTracker2.0</p>
              <p>A job tracking app that pulls listings from an API and lets users search, add jobs through a form, and saves them using localStorage.</p>
