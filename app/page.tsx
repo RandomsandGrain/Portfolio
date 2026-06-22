@@ -18,7 +18,12 @@ export default function Home() {
       >
         Visit My Github!
       </Link>
-             </div>
+        </div>
+   <p className="font-bold text-2xl mt-50 text-yellow-500">
+    Email: estebanjennings2008@gmail.com
+    <br />
+    Phone Number: 945-237-5490
+   </p>
          </div>
     </div>
   );
